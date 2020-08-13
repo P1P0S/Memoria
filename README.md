@@ -1,1 +1,1 @@
-Memoria
+Simple memory game for academic purposes 👨🏻‍🎓
